@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "wallpaperok",
+    "site": "wallpaperuz",
     "public": "public",
     "ignore": [
       "firebase.json",
