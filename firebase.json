@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "wallpaperjoss",
+    "site": "wallpaperme",
     "public": "public",
     "ignore": [
       "firebase.json",
